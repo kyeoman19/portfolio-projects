@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Anaconda
+anaconda_projects/
+
+# Large files (>100MB) - excluded from GitHub
+*.pkl
+aluminum-flow-stress-prediction/data/cleaned_data.csv
