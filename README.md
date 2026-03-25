@@ -31,15 +31,6 @@ Classification model predicting which users will adopt a SaaS product (3+ logins
 
 ---
 
-### [Ride-Sharing Demand & Retention](./rideshare-demand-retention)
-**Transportation Analytics** | AUC = 0.825
-
-Two-part analysis: (1) Time series demand pattern analysis with anomaly detection, (2) Rider retention prediction identifying churn drivers including surge pricing and early engagement.
-
-**Tech:** Python, scikit-learn, time series analysis, JSON parsing
-
----
-
 ## Skills Demonstrated
 
 - **Machine Learning**: Random Forest, Gradient Boosting, Logistic Regression, Clustering (GMM, DBSCAN, KMeans)
